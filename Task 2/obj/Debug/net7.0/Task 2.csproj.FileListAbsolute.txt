@@ -1,0 +1,15 @@
+E:\GeekBrains\DZ_C#\DZ1\Task 2\obj\Debug\net7.0\Task 2.csproj.AssemblyReference.cache
+E:\GeekBrains\DZ_C#\DZ1\Task 2\obj\Debug\net7.0\Task 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\DZ_C#\DZ1\Task 2\obj\Debug\net7.0\Task 2.AssemblyInfoInputs.cache
+E:\GeekBrains\DZ_C#\DZ1\Task 2\obj\Debug\net7.0\Task 2.AssemblyInfo.cs
+E:\GeekBrains\DZ_C#\DZ1\Task 2\obj\Debug\net7.0\Task 2.csproj.CoreCompileInputs.cache
+E:\GeekBrains\DZ_C#\DZ1\Task 2\bin\Debug\net7.0\Task 2.exe
+E:\GeekBrains\DZ_C#\DZ1\Task 2\bin\Debug\net7.0\Task 2.deps.json
+E:\GeekBrains\DZ_C#\DZ1\Task 2\bin\Debug\net7.0\Task 2.runtimeconfig.json
+E:\GeekBrains\DZ_C#\DZ1\Task 2\bin\Debug\net7.0\Task 2.dll
+E:\GeekBrains\DZ_C#\DZ1\Task 2\bin\Debug\net7.0\Task 2.pdb
+E:\GeekBrains\DZ_C#\DZ1\Task 2\obj\Debug\net7.0\Task 2.dll
+E:\GeekBrains\DZ_C#\DZ1\Task 2\obj\Debug\net7.0\refint\Task 2.dll
+E:\GeekBrains\DZ_C#\DZ1\Task 2\obj\Debug\net7.0\Task 2.pdb
+E:\GeekBrains\DZ_C#\DZ1\Task 2\obj\Debug\net7.0\Task 2.genruntimeconfig.cache
+E:\GeekBrains\DZ_C#\DZ1\Task 2\obj\Debug\net7.0\ref\Task 2.dll
